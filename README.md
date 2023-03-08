@@ -1,1 +1,1 @@
-# q-fractional
+# q-fractional fuzzy set application
